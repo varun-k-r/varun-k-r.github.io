@@ -1,0 +1,65 @@
+title: "Varun K.R"
+name: "Varun Karekurve-Ramachandra"
+description: "Varun Karekurve-Ramachandra — University of Southern California"
+url: "https://varun-k-r.github.io"
+baseurl: ""
+locale: "en-US"
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "default"
+repository: "varun-k-r/varun-k-r.github.io"
+search: false
+breadcrumbs: false
+atom_feed:
+  hide: true
+enable_copy_code_button: true
+include: ["_pages"]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - academic_website
+  - scripts
+  - LICENSE-THEME
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+author:
+  name: "Varun Karekurve-Ramachandra"
+  avatar: "/assets/images/portrait.jpg"
+  bio: "Assistant Professor of Political Science and International Relations"
+  links:
+    - label: "University of Southern California"
+      icon: "fas fa-fw fa-university"
+      url: "https://dornsife.usc.edu/poir/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:varun.rama@usc.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=USpEzdIAAAAJ&hl=en"
+    - label: "Curriculum vitae"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/documents/cv.pdf"
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:varun.rama@usc.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=USpEzdIAAAAJ&hl=en"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      related: false
+      comments: false
+      classes: wide

@@ -1,0 +1,48 @@
+---
+---
+
+@charset "utf-8";
+
+$serif: Georgia, "Times New Roman", serif;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+$background-color: #fcfcfa;
+$text-color: #28352f;
+$primary-color: #285749;
+$link-color: #285749;
+$link-color-hover: #183e33;
+$muted-text-color: #626f67;
+$border-color: #dee4de;
+$footer-background-color: #f0f3ef;
+$max-width: 1280px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+html { font-size: 16px; @media (min-width: 64em) { font-size: 18px; } }
+.masthead { border-top: 4px solid $primary-color; }
+.masthead__inner-wrap { padding-top: 1.1em; padding-bottom: 1.1em; }
+.greedy-nav { background: transparent; }
+.greedy-nav .site-title { font-family: $serif; font-size: 1.25em; }
+.greedy-nav .visible-links a { font-size: .82em; }
+.page__title { font-family: $serif; font-weight: 400; line-height: 1.15; font-size: 2.5em; letter-spacing: -.035em; max-width: 20ch; margin-bottom: .5em; }
+.page__content { line-height: 1.75; }
+.page__content h2 { font-family: $serif; font-weight: 400; font-size: 1.55em; padding-bottom: .45em; margin-top: 2em; }
+.page__content h3 { font-weight: 600; font-size: 1.05em; }
+.page__content p { margin-bottom: 1.3em; }
+.author__name { font-family: $serif; font-weight: 400; line-height: 1.3; font-size: 1.2em; overflow-wrap: anywhere; }
+.author__bio { line-height: 1.65; }
+.author__avatar img { border-radius: 4px; padding: 0; border: 0; max-width: 180px; }
+.author__urls li { white-space: normal; }
+.author__urls a { line-height: 1.5; }
+.sidebar { opacity: 1; }
+.page__content .affiliation { color: $muted-text-color; margin-top: -.4em; margin-bottom: 2em; }
+.page-intro { font-family: $serif; font-size: 1.65em; line-height: 1.3; }
+.page__content figure img { border-radius: 3px; width: 100%; height: auto; }
+.page__content figcaption { font-size: .75em; color: $muted-text-color; }
+.page__footer { margin-top: 4em; }
+.page__footer-copyright { line-height: 1.8; }
+.toc { border-color: $border-color; box-shadow: none; }
+.toc .nav__title { background: $primary-color; }
+@media (max-width: 63.99em) { .page__title { font-size: 2em; } }

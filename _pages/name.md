@@ -1,0 +1,9 @@
+---
+title: "Varun, What?"
+permalink: /varun-what/
+---
+
+<p>I go by my first name, Varun (V-uh-r-uu-n). Officially my last name is Karekurve-Ramachandra (Cur-ey-coor-way -- Raam-uh-chund-ra). As is the case with many South Indians I used initials in lieu of my last name and was known as Varun K.R in school/college. This changed when the passport office compelled me to expand the initials in full. Karekurve is the name of my ancestral village (I have been there two times), and Ramachandra is my father&#39;s first name.</p>
+
+<p>Update: Originally, I had linked to a Huff-Post India article titled &quot;What the Hell is that South Indian Name&quot; that describes the first-name-followed-by-initials nomenclature as the GPS coordinates of an individual. Since HuffPost India has shut shop, that link is no longer valid. The cached version of the article can be <a href="{{ '/assets/documents/south_name.pdf' | relative_url }}">found here</a></p>
+

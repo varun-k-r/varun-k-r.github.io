@@ -1,0 +1,15 @@
+main:
+  - title: "Bio"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+  - title: "PE Dev Conference"
+    url: /pe-dev-conference/
+  - title: "Varun, What?"
+    url: /varun-what/
+  - title: "ಕನ್ನಡ"
+    url: /ಕನನಡ/
