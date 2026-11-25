@@ -1,10 +1,6 @@
 ---
 title: "PE Dev Conference"
 permalink: /pe-dev-conference/
-toc: true
-toc_sticky: true
-toc_label: On this page
-classes: ""
 ---
 
 <p class="page-intro">New Perspectives on the Political Economy of Development</p>

@@ -1,10 +1,6 @@
 ---
 title: "Research"
 permalink: /research/
-toc: true
-toc_sticky: true
-toc_label: On this page
-classes: ""
 ---
 
 ## Peer-Reviewed Publications
