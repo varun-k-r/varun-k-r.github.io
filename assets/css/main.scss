@@ -43,6 +43,7 @@ html { font-size: 16px; @media (min-width: 64em) { font-size: 18px; } }
 .page__content figcaption { font-size: .75em; color: $muted-text-color; }
 .page__footer { margin-top: 4em; }
 .page__footer-copyright { line-height: 1.8; }
+.website-credit { max-width: 90ch; margin-bottom: 1.6em; font-size: .8em; line-height: 1.7; }
 .toc { border-color: $border-color; box-shadow: none; }
 .toc .nav__title { background: $primary-color; }
 @media (max-width: 63.99em) { .page__title { font-size: 2em; } }
