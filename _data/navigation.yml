@@ -1,15 +1,15 @@
 main:
   - title: "Bio"
-    url: /
+    url: /#bio
   - title: "Research"
-    url: /research/
+    url: /#research
   - title: "Teaching"
-    url: /teaching/
+    url: /#teaching
   - title: "CV"
-    url: /cv/
+    url: /#cv
   - title: "PE Dev Conference"
-    url: /pe-dev-conference/
+    url: /#pe-dev-conference
   - title: "Varun, What?"
-    url: /varun-what/
+    url: /#varun-what
   - title: "ಕನ್ನಡ"
-    url: /ಕನನಡ/
+    url: /#kannada

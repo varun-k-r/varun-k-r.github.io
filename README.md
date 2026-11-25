@@ -4,11 +4,11 @@ Personal academic website of Varun Karekurve-Ramachandra, Assistant Professor of
 
 **[Visit the website](https://varun-k-r.github.io/)**
 
-- [Research](https://varun-k-r.github.io/research/): publications, working papers, book project, and policy writing
-- [Teaching](https://varun-k-r.github.io/teaching/)
-- [Curriculum vitae](https://varun-k-r.github.io/cv/)
-- [New Perspectives on the Political Economy of Development](https://varun-k-r.github.io/pe-dev-conference/): annual conference
-- [ಕನ್ನಡ](https://varun-k-r.github.io/%E0%B2%95%E0%B2%A8%E0%B2%A8%E0%B2%A1/)
+- [Research](https://varun-k-r.github.io/#research): publications, working papers, book project, and policy writing
+- [Teaching](https://varun-k-r.github.io/#teaching)
+- [Curriculum vitae](https://varun-k-r.github.io/#cv)
+- [New Perspectives on the Political Economy of Development](https://varun-k-r.github.io/#pe-dev-conference): annual conference
+- [ಕನ್ನಡ](https://varun-k-r.github.io/#kannada)
 
 Contact: [varun.rama@usc.edu](mailto:varun.rama@usc.edu)
 

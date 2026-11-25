@@ -1,0 +1,21 @@
+- id: bio
+  title: "Bio"
+  file: sections/bio.md
+- id: research
+  title: "Research"
+  file: sections/research.md
+- id: teaching
+  title: "Teaching"
+  file: sections/teaching.md
+- id: cv
+  title: "CV"
+  file: sections/cv.md
+- id: pe-dev-conference
+  title: "PE Dev Conference"
+  file: sections/pe-dev-conference.md
+- id: varun-what
+  title: "Varun, What?"
+  file: sections/varun-what.md
+- id: kannada
+  title: "ಕನ್ನಡ"
+  file: sections/kannada.md
