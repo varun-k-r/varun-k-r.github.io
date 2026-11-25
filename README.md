@@ -15,6 +15,7 @@ An academic website using [Minimal Mistakes](https://github.com/mmistakes/minima
 - `_data/navigation.yml`: navigation
 - `_config.yml`: identity, links, theme, and site settings
 - `assets/css/main.scss`: visual customization
+- `_includes/author-profile.html`: profile sidebar, styled after Shiro Kuriwaki’s site
 
 The original `academic_website/` folder is kept locally and excluded from both Git and the published site. Only selected website assets are copied into `assets/`. The private job resume and editable Word document are not published.
 

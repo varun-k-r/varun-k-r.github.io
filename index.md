@@ -1,6 +1,7 @@
 ---
 title: "Varun Karekurve-Ramachandra"
 permalink: /
+classes: "wide bio-page"
 ---
 
 <p class="affiliation">University of Southern California</p>
